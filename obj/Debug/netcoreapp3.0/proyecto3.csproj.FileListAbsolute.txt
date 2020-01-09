@@ -1,0 +1,11 @@
+C:\Users\WINDOWS 8.1\Music\proyecto3\obj\Debug\netcoreapp3.0\proyecto3.csprojAssemblyReference.cache
+C:\Users\WINDOWS 8.1\Music\proyecto3\obj\Debug\netcoreapp3.0\proyecto3.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 8.1\Music\proyecto3\obj\Debug\netcoreapp3.0\proyecto3.AssemblyInfo.cs
+c:\Users\WINDOWS 8.1\Music\proyecto3\bin\Debug\netcoreapp3.0\proyecto3.exe
+c:\Users\WINDOWS 8.1\Music\proyecto3\bin\Debug\netcoreapp3.0\proyecto3.deps.json
+c:\Users\WINDOWS 8.1\Music\proyecto3\bin\Debug\netcoreapp3.0\proyecto3.runtimeconfig.json
+c:\Users\WINDOWS 8.1\Music\proyecto3\bin\Debug\netcoreapp3.0\proyecto3.runtimeconfig.dev.json
+c:\Users\WINDOWS 8.1\Music\proyecto3\bin\Debug\netcoreapp3.0\proyecto3.dll
+c:\Users\WINDOWS 8.1\Music\proyecto3\bin\Debug\netcoreapp3.0\proyecto3.pdb
+c:\Users\WINDOWS 8.1\Music\proyecto3\obj\Debug\netcoreapp3.0\proyecto3.dll
+c:\Users\WINDOWS 8.1\Music\proyecto3\obj\Debug\netcoreapp3.0\proyecto3.pdb
